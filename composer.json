@@ -1,0 +1,20 @@
+{
+    "name": "dedegunawan/simak-api-client",
+    "description": "Simak Api Client created By Dede Gunawan for PHP",
+    "type": "library",
+    "require": {
+        "php": ">5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dede Gunawan",
+            "email": "dede@unsil.ac.id"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DedeGunawan\\SimakApiClient\\": "src/"
+        }
+    }
+}
